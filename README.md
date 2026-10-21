@@ -1,5 +1,7 @@
 # NSSE DOS — 離線／網站單檔版
 
+**線上使用：[開啟 NSSE DOS](https://h6rst0n.github.io/NSSE_dos/)**
+
 **正式入口是 `index.html`。** 雙擊以新版 Chrome／Edge 開啟，再按「啟動 NSSE」即可。不需網路、Python、安裝 DOSBox 或啟動本機伺服器。同一份檔案也能直接放到 GitHub Pages。
 
 在瀏覽器內執行原始 `NSSE.BAT`、`JCE.EXE` 與 `NUM-SOLN.EXE`。HTML 內嵌 DOSBox WebAssembly、原程式 ZIP、JavaScript、樣式及授權文字。原本的 DOS 介面、按鍵與數值程式均保留。
